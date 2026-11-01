@@ -1,4 +1,4 @@
-package consumer;
+package aboutLamnbda.consumer;
 
 import java.util.Comparator;
 import java.util.function.UnaryOperator;

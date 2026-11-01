@@ -1,4 +1,4 @@
-package data;
+package aboutLamnbda.data;
 
 import java.util.List;
 import java.util.Objects;
@@ -17,6 +17,10 @@ public class Student {
         this.gpa = gpa;
         this.gender = gender;
         this.activities = activities;
+    }
+
+    public Student() {
+
     }
 
     public String getName() {

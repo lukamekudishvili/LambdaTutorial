@@ -1,4 +1,4 @@
-package consumer;
+package aboutLamnbda.lambdas;
 
 import java.util.function.Function;
 

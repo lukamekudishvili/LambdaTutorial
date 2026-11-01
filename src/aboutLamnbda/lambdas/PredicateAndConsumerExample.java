@@ -1,7 +1,7 @@
-package consumer;
+package aboutLamnbda.lambdas;
 
-import data.Student;
-import data.StudentDatabase;
+import aboutLamnbda.data.Student;
+import aboutLamnbda.data.StudentDatabase;
 
 import java.util.Collection;
 import java.util.List;

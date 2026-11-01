@@ -1,11 +1,10 @@
-package consumer;
+package aboutLamnbda.consumer;
 
-import data.Student;
-import data.StudentDatabase;
+import aboutLamnbda.data.Student;
+import aboutLamnbda.data.StudentDatabase;
 
 import java.util.Collection;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.function.BiFunction;
 import java.util.function.Predicate;
